@@ -33,5 +33,7 @@
 ## Реализация
 
 Для работы программы требуется устрановка модулей terminal-table и colorize.
+```
 gem install terminal-table
 gem install colorize
+```
